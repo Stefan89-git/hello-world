@@ -2,4 +2,4 @@
 bla bla bla
 
 Hi there!
-I m Stefan and I m learingn to code in java language
+I m Stefan and I m learning to code in java language
